@@ -1,6 +1,0 @@
-﻿Nome da Variável;Tipo;Descrição;Unidades;Valores Faltantes
-Nome;Textual;Nome completo do aniversariante.;N/A;Não (0)
-Data de Nascimento;Data;Dia, mês e ano do nascimento.;Data;Não (0)
-Idade;Numérico Discreto;Idade calculada em anos.;Anos;Sim (alguns nulos)
-Departamento;Categórico;Departamento onde a pessoa trabalha.;N/A;Não (0)
-Cargo;Textual;Função ou cargo do aniversariante.;N/A;Não (0)
